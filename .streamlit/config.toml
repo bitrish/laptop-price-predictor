@@ -1,10 +1,8 @@
 [deprecation]
 showPyplotGlobalUse=False
 [theme]
-primaryColor="#e82453"
-backgroundColor="#3e3e43"
-secondaryBackgroundColor="#868c98"
-textColor="#f1f2f5"
-font="monospace"
+backgroundColor="#817a7a"
+secondaryBackgroundColor="#c6cedc"
+textColor="#0d0e0e"
 
 
